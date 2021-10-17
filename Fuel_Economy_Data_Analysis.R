@@ -198,4 +198,5 @@ tibble(RMSE_train = round(RMSE_train,1),
        Adjusted_R2_train,
        Adjusted_R2_test = Adjusted_R2)
 
+# You should check whether or not these assumptions hold true
 
